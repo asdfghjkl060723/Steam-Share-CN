@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
+  "name": "steam-share",
+  "common_name": "Steam Share",
+  "description": "为 Steam 商店游戏页面添加原生风格的分享功能。",
+  "version": "1.1.0",
+  "useBackend": false,
+  "backendType": "lua",
+  "webkitApiVersion": "2.0.0"
+}
