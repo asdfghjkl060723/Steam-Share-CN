@@ -6,3 +6,8 @@
 下载本项目并解压                                                                                                                                                         
 找到(steam安装的盘符)\steam\millennium\plugins,把解压的文件放进去                                                                                                          
 在Millennium的插件设置中启用Steam Share，根据提示重启steam确保插件生效
+# 效果
+## 访问游戏商店页面即可看到一个分享按钮，点击可选择好友分享
+<img width="1800" height="783" alt="屏幕截图 2026-09-10 223853" src="https://github.com/user-attachments/assets/791266e7-bf70-4f09-9bea-c6b364f6e37d" />               
+
+### 如果想让它的ui适配你所安装的steam主题，可将主题压缩包和本项目压缩包发给AI Agent(比如kimi work，trae，marvis)让它帮你写适配代码然后用Millennium的快速CSS功能粘贴进编辑器
