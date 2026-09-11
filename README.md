@@ -1,7 +1,7 @@
 # Steam-Share-CN
 原项目地址[Steam-Share](https://github.com/wopln/Steam-Share/tree/eaa4744d90a221856561a218a71825304f4d114a)                                                              
 简单介绍一下**Steam-Share**，这是[Millennium](https://steambrew.app/)的一个插件，会在游戏商店页面添加一个分享按钮，点击后选择一个或多个好友快速分享该商店页面，然后在好友聊天框出现一个游戏卡片，好友可点击访问商店页面，当然未安装插件的情况下直接发送商店页面链接也会有游戏卡片，但是如果想分享给多个好友还得一个个点开聊天框很麻烦，**Steam-Share**很好的解决这个痛点，让分享更便捷
-### 那么Millennium是干什么的？这是一个可以安装到steam客户端，有了它之后就可以给steam安装主题和功能性插件，让steam更好用
+### 那么Millennium是干什么的？这是一个可以安装到steam客户端的插件，有了它之后就可以给steam安装主题和功能性插件，让steam更好用
 # 安装
 安装[Millennium](https://steambrew.app/)                                                                                                                                
 下载本项目并解压                                                                                                                                                         
